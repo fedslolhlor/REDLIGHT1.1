@@ -4,14 +4,13 @@
   "version": "1.0",
   "authors": [
     {
-      "name": "zee/hlor",
-      "id": "808740731531427850”
+      "name": "zee/hlor"
     }
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#e34f4f",  ZEE
-      "#4a0e1a"  HLOR
+      "#e34f4f",
+      "#4a0e1a"
     ],
     "HEADER_SECONDARY": [
       "#55576b",
